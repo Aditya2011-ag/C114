@@ -1,0 +1,10 @@
+h3{
+    font-size: 30!important;
+}
+
+canvas{
+    animation-name: filter;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    border: 3px dashed blue;
+}
